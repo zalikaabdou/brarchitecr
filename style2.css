@@ -1,0 +1,239 @@
+
+*{
+  margin: 0; 
+  padding: 0;
+} 
+
+html{
+  margin: 20px;
+  
+}
+/* CLASS */
+
+.menu1 {
+  display: inline;
+}
+
+.background{
+    background-color: rgb(94, 94, 245);
+   background-attachment: fixed;
+   padding: 20px;
+  } 
+
+.maison1{
+ background-image: url(""); 
+ margin-bottom: 10px;
+  }
+
+.house1{
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+ }
+
+.house2{
+  text-align: center;
+  display: flex;
+  justify-content: space-between;}
+
+.maison2{
+background-image: url("");
+}
+
+.ongllets{
+  align-items: center;
+}
+
+.bonjour {
+  background-color: aqua; 
+  width: 100%;height: 70px;
+  text-align: right;
+}
+
+.controle{justify-content: center;}
+
+.red {
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  color: aliceblue;
+  background-image: url("image/image1.jpg");
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+.banner{
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.orange{
+  text-align: center;
+  display:flex;
+  justify-content: space-between;
+}
+
+.heading{
+  font-size:3rem;
+  text-shadow: 5px 5px 10px #000000;
+  color: whitesmoke;
+  position: absolute;
+  text-align: center;
+  top: 90%;
+  width:100%;
+}
+
+.contact1{
+  border-style: groove;  
+  width: 100%;
+  height: 30px; 
+  text-align: center;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.contact1:hover{
+  box-shadow: 0 14px 28px rgb(125, 228,239), 0 10px 10px rgba(0,0,0,0.22);}
+
+.orang{
+  display: flex;
+  justify-content: space-between;
+}
+
+.nom{
+  border-style: groove;
+  width: 100%;
+  height: 30px;
+}
+.mail{
+  border-style: groove;
+  width: 100%;
+  height: 30px; 
+}
+.sujet{
+  border-style: groove;
+  width: 100%;
+  height: 30px;
+
+}
+.commentaire{
+  border-style: groove;
+  width: 100%;
+  height: 30px;
+
+}
+.grouve{
+  margin-bottom: 8px;
+}
+
+.map{
+  background-image: url("image/image6.jpg");
+  height: 500px;
+  margin: 20px;
+  text-align: center;  
+}
+
+
+/* CLASS ET BALISE */
+.bonjour h1{
+  color: black;
+}
+
+.loca,button{
+  margin-bottom: 20px;
+}
+
+.summer,p{
+  background-color: black;
+  color: aliceblue;}
+  
+.brique,p{
+background-color: black;
+color: aliceblue;
+}
+
+.banner img{width: 100%;
+}
+  
+
+/* BALISE */
+h2{
+  margin:bottom 200px;
+  float: middle;
+  color: black
+}
+
+h3{
+   margin-bottom: 30px;
+   text-transform: uppercase;
+  }
+ 
+img{
+  text-align: center;
+  margin-bottom: 20px;}
+ 
+span{
+  background-color: rgb(63, 59, 59);
+  color: white; }
+
+span{
+   background-color: #000000;
+  }
+
+button{
+    border-color: black;
+    height: 30px;
+    text-transform: uppercase;}
+
+pre{
+  color: rgb(150, 150, 241);
+}          
+
+li{
+   list-style-type: none;
+   display: inline;
+   margin: 10px;}
+
+b,i{
+  margin: 5px;}
+
+body{
+  font-size:20px;
+  font-family: arial serif;}
+
+
+  .onglets a{
+    display: flex;
+    height: 50px;
+    padding: 20px;
+    display: inline;
+  }
+
+  .abdou a{
+    justify-content: space-between;
+  }
+  
+  .zalika,a{
+    margin-bottom: 80px;
+}
+
+          a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    text-align: underline none;
+  }
+
+footer{
+  background-color: rgb(10, 10, 10);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 1000px;
+  text-align: center;
+  background-attachment: fixed;
+}
+.footer footer{
+   text-align: center;
+}

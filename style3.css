@@ -1,0 +1,121 @@
+li{list-style-type: none; display: inline;margin: 10px;}
+
+.lundi{background-color: rgb(101, 215, 233);width: 101%;height:60px;}
+
+a{font-weight: bold; color: black; text-decoration: none; text-align: underline none;}
+nav ul{display: flex; justify-content: space-between;}
+
+*{margin: 0; padding: 0;}
+body{font-size:20px;}
+.banner{position: relative; width: 100%; margin: 0 auto;}
+.banner img{width: 100%;}
+.banane{color: whitesmoke; position: absolute; top: 90%; width:100%; text-align: center;
+font-size:3rem; text-shadow: 5px 5px 10px #000000;}
+
+.maison{display:flex;justify-content:space-between;}
+.mardi{display:flex; justify-content: space-between;}
+.mercredi{display: flex; justify-content: space-between;}
+.star{display: flex; justify-content: space-between;}
+.nigeria{display: flex;justify-content: space-between;}
+.lecture{display: flex; justify-content: space-between;}
+.container{text-align: center;justify-content: space-between;}
+
+.orange{background-color:rgb(101, 215, 233); width: 20%; height: 30px;}
+.blanc{background-color:rgb(101, 215, 233); width:20%; height:30px;}
+.vert{background-color:rgb(101, 215, 233); width: 20%; height: 30px;}
+.rouge{background-color:rgb(101, 215, 233); width: 20%; height: 30px;}
+
+.nom{width: 100%; height:30px;border-style: groove;}
+.mail{width: 100%;height:30px;border-style:groove;}
+.subject{width:100%;height:30px;border-style:groove;}
+.commenter{width: 100%; height:30px;border-style: groove;}
+.map{text-align: center;}
+.localisation{width: 18%; height: 30px;color: aliceblue; border:solid;background-color: rgb(101, 215, 233);}
+footer{background-color: rgb(10, 10, 10);color: white;text-align: center;}
+
+
+
+
+
+
+
+<figcaption>
+                  <h3>Jane Doe</h3><br>
+                  <pr>Architect</pr><br>
+                  <pr>Phasellus eget lectus eu<br> 
+                    faucibus vestibulum.<br>
+                    Suspendisse sodales<br>
+                    pellentesque elementum.enim</pr><br>
+           <section class="contact3">
+                  <a href="contact">contact</a>
+            </section>
+           </figcaption>
+              
+       </figure>
+
+
+              
+      </figure>
+
+
+      <figure>
+                <img src="image/image10.jpg" title="Dan  Star"width="250"lang="250">
+          <figcaption>
+                <!-- <h3>Dan Star</h3><br> -->
+                <!-- <pr>Architect</pr><br> -->
+                <!-- <pr>Phasellus eget lectus eu<br>  -->
+                  <!-- faucibus vestibulum.<br> -->
+                  <!-- Suspendisse sodales<br> -->
+                  <!-- pellentesque elementum.enim</pr><br> -->
+             <!-- <section class="contact1">         -->
+                  <!-- <a href="Contact">contact</a>  -->
+             </section>     
+          </figcaption>
+                
+      </figure>
+</section><br>
+
+
+<div class="container">
+  <nav class="abdou">
+       
+        
+  </nav>
+</div>
+
+          <!-- CONTACT -->
+         <!-- <h3 id="nous Contacter">Contact<hr></h3>  ->
+          
+
+    <pr>Contacter-nous au sujet de votre prochan projet</pr><br><br>
+
+            
+    <section class="name">
+         <pr>Nom:</pr>
+    </section><br>
+
+    <section class="e">
+        <pr>E-mail:</r>
+    </section><br>
+
+    <section class="sub">
+        <pr>Sujet:</pr>
+    </section><br>
+
+    <section class="comment">
+        <pr>Commentaire:</pr>
+    </section><br>
+
+    <section class="send">
+          <nav class="zalika">
+              <a href="send message">Envojez message</a>
+          </nav>
+    </section>
+
+    <section class=" map">
+          <img>
+    </section>
+
+          <!-- FOOTER -->
+           <!-- <footer class="footer">copy© 2022 power by br.css</footer>  ->
+    
